@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0acb4142-28b6-4bc1-90f8-5b862b3d898b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main_classification.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="0acb4142-28b6-4bc1-90f8-5b862b3d898b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +66,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,6 +77,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -136,6 +133,7 @@
       <workItem from="1600952018965" duration="613000" />
       <workItem from="1601036210092" duration="144000" />
       <workItem from="1601107124438" duration="392000" />
+      <workItem from="1601286368283" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1600795832831</created>
@@ -148,7 +146,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14504000" />
+    <option name="totallyTimeSpent" value="14895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
